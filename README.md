@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello 👋, I'm Jitendra Suthar</h1>
+<h1 align="center">Hello 👋, I'm Suthar Jitendra</h1>
 <h3 align="center">👨‍💻 A passionate Full-Stack Developer from India | Turning ideas into impactful solutions through code. 🚀 Always learning, always building!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
